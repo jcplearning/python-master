@@ -1,0 +1,7 @@
+python -m pip --version
+python -m pip list
+python -m pip install configparser
+python -m pip install configparser=7.0.1
+python -m pip install -upgrade configparser
+python -m pip install -upgrade configparser=7.1.0
+python -m pip install -upgrade configparser\<=7.1.0
