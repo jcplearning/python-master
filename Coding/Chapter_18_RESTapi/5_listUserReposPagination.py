@@ -7,7 +7,7 @@ url = "https://api.github.com/user/repos"
 payload = {}
 
 headers = {
-  'Authorization': 'Bearer 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'
+
 }
 page = 1 
 

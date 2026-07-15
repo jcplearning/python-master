@@ -7,7 +7,7 @@ url = "https://api.github.com/user/repos"
 # make a GET request to the url with the authorization header
 payload = {}
 headers = {
-  'Authorization': 'Bearer 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'
+ 
 }
 
 response = requests.request("GET", url, headers=headers, data=payload)
