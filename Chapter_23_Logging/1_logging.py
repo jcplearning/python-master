@@ -10,3 +10,4 @@ logging.info('This is an info message')
 logging.warning('This is a warning message')
 
 
+os.environ['PYTHONLOGGING'] = '1'  # Set the environment variable to enable logging
